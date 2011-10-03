@@ -1,0 +1,14 @@
+what,kind,bundleId,bundleVersion,description,time
+deactivated,workbench,org.eclipse.ui.workbench,3.4.2.M20090127-1700,,1315797792716
+activated,workbench,org.eclipse.ui.workbench,3.4.2.M20090127-1700,,1315797793886
+closed,workbench,org.eclipse.ui.workbench,3.4.2.M20090127-1700,,1315797794401
+stopped,bundle,org.eclipse.mylyn.ide.ant,3.0.5.v20090218-1800-e3x,org.eclipse.mylyn.ide.ant,1315797795400
+stopped,bundle,org.eclipse.ant.ui,3.3.1.v20090120_r342,org.eclipse.ant.ui,1315797795446
+stopped,bundle,org.eclipse.mylyn.java.tasks,3.0.5.v20090218-1800-e3x,org.eclipse.mylyn.java.tasks,1315797795462
+stopped,bundle,org.eclipse.mylyn.java.ui,3.0.5.v20090218-1800-e3x,org.eclipse.mylyn.java.ui,1315797795509
+stopped,bundle,org.eclipse.jdt.junit,3.4.0.v20080603-2000,org.eclipse.jdt.junit,1315797795540
+stopped,bundle,org.eclipse.jem.ui,2.0.100.R3_0_4,org.eclipse.jem.ui,1315797795556
+stopped,bundle,org.eclipse.ve.jfc,1.4.0.v20090826-1446,org.eclipse.ve.jfc,1315797795556
+stopped,bundle,org.eclipse.ve.swt,1.4.0.v20090826-1446,org.eclipse.ve.swt,1315797795634
+stopped,bundle,org.eclipse.ve.java.core,1.4.0.v20090826-1446,org.eclipse.ve.java.core,1315797795634
+stopped,bundle,org.eclipse.jdt.debug.ui,3.3.1.v20080730_r341,org.eclipse.jdt.debug.ui,1315797795634
